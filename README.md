@@ -1,2 +1,1 @@
-# lab-gestao-configuracao-Leo
-Laboratório de Engenharia de Software
+Aplicar os conceitos de Gestão de Configuração Moderna através de um fluxo de trabalho prático utilizando Git e GitHub. Você irá criar um repositório, desenvolver um projeto "Hello World", versionar o código utilizando padrões da indústria, trabalhar com ramificações (branches) e aprender a verificar cada ação realizada.
